@@ -1,0 +1,1 @@
+# scraping-data-covid19-di-Indonesia-sebanyak-1000-data.
